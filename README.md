@@ -4,7 +4,7 @@
 - 더 많은 공부 내용은 [블로그](https://jyostudy.tistory.com/)에 기록한다.
 - [공부 기록 인스타그램](https://www.instagram.com/jyovelop/)
 <br/>
-<br/>
+
 # 💡 <b>Category</b>  
 ## 알고리즘  
 - [투포인터](https://github.com/stop0ho/TIL/blob/main/Algorithm/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
