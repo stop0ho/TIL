@@ -7,5 +7,6 @@
 
 # 💡 <b>Category</b>  
 ## 알고리즘  
-제목 | 날짜  
-[투포인터](https://github.com/stop0ho/TIL/blob/main/Algorithm/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md) | 2022.09.20
+|제목|날짜|  
+|---|---|
+|[투포인터](https://github.com/stop0ho/TIL/blob/main/Algorithm/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md)|2022.09.20|
